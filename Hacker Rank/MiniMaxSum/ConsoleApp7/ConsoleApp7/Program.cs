@@ -26,6 +26,7 @@ class Solution
         long min = total - arr.Max();
         long max = total - arr.Min();
         Console.WriteLine(min + " " + max);
+        Console.ReadLine();
 
     }
 
